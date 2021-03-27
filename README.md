@@ -74,7 +74,7 @@ The following screenshot displays the result of running `docker ps` after succes
 **Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.  
 
 
-https://github.com/mmiller2890/ELK-Stack-Project/blob/main/ELK.png?raw=true
+![image](https://user-images.githubusercontent.com/81493590/112738031-ba813280-8f35-11eb-97d9-9ba2d8434fa5.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
